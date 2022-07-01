@@ -7,13 +7,23 @@
 int main(void)
 {
 
-	char c;
-
-	for (c = 'a'; c <= 'z'; c++)
+	char c= 'a'
+	while (c <= 'z')
+	{
 		putchar(c);
-		putchar('\n');
-
-return (0);
+		c++;
+	}
+	
+	c = 'A'
+	
+	while (c <= 'Z')
+	{
+		putchar(c);
+		c++;
+	}
+	
+	putchar('\n');
+	return (0);
 }
 Footer
 © 2022 GitHub, Inc.
