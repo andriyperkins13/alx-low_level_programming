@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_sign 
+ * print_sign - entry point
  * @n : number to check
  * Return:0 or 1
  */
