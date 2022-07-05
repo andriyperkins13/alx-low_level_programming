@@ -1,7 +1,8 @@
 #include "main.h"
-/** 
- * *main -main block
- * */
+/* 
+*main -main block
+*/
+
 int main(void)
 {
 	_putchar('_);
