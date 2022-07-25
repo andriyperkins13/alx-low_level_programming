@@ -42,5 +42,4 @@ char *argstostr(int ac, char **av)
 
 	return (str);
 }
-Footer
-© 2022 GitHub, Inc.
+
